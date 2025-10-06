@@ -1,3 +1,7 @@
 import streamlit as st
+st.title ("MEU PROGRAMA")
 st.write ("Alô mundo")
-seunome = st.input ("qual é seu nome? ")
+seunome = text_input("Qual o seu nome?")
+    if nome: 
+      st.write(nome.upper())
+      
