@@ -1,3 +1,5 @@
+import streamlit as st
+import requests
 st.title("Medalha de São Bento")
 st.write("Fala, Josir!")
 
